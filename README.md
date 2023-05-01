@@ -22,7 +22,8 @@ A goal-conditioned continuous control task in which the ego-vehicle must park in
   </tr>
 </table>
 
-### Simulation results
+# Simulation results
+---
 
 <img src="images\image11.gif" width="360px"> <img src="images\image12.gif" width="300px"> </br> </br>
 <img src="images\image27.gif" width="360px">
